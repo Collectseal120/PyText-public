@@ -1,0 +1,36 @@
+{
+ "basemode": "light",
+ "insertbackground": "black",
+ "background": "white",
+ "foreground": "black",
+ "font": "Arial",
+ "configure_bg": "#ffffff",
+ "configure_font": "red",
+ "notebook_bg": "#ffffff",
+ "notebook_tab_margins": [0, 0, 0, 0],
+ "tab_unselected_bg": "#f1f1f1",
+ "tab_unselected_fg": "black",
+ "tab_unselected_padding": [0, 0],
+ "tab_font": "Arial",
+ "tab_font_size": 11,
+ "tab_selected_bg": "#ffffff",
+ "tab_selected_text_margins": [0, 0, 0, 0],
+ "text_mygroup_color_fg": "#7f7f7",
+ "text_mygroup_color_bg": "",
+ "text_comment_color_fg": "#8c8c8c",
+ "text_comment_color_bg": "",
+ "text_keyword_color_fg": "#d9aaff",
+ "text_keyword_color_bg": "",
+ "text_builtin_color_fg": "#88b3ff",
+ "text_builtin_color_bg": "",
+ "text_string_color_fg": "#87cb88",
+ "text_string_color_bg": "",
+ "text_defenition_color_fg": "#6ce3ae",
+ "text_defenition_color_bg": "",
+ "text_function_color_fg":"#88b3ff",
+ "text_sel_bg": "#acacac",
+ "text_sel_fg": ""
+}
+
+
+
